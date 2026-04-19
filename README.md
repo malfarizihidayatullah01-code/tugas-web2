@@ -1,4 +1,4 @@
-# 📚 Book Management System (Laravel CRUD)
+# 📚 Manajemen Data Buku (Laravel CRUD)
 
 Aplikasi web sederhana berbasis Laravel untuk mengelola data buku, kategori, dan penerbit.  
 Project ini dibuat sebagai tugas mata kuliah sekaligus latihan memahami konsep CRUD dan MVC di Laravel.
