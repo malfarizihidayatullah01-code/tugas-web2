@@ -8,12 +8,13 @@ Project ini dibuat sebagai tugas mata kuliah sekaligus latihan memahami konsep C
 🏷️ CRUD Kategori
 🏢 CRUD Penerbit
 🔗 Relasi:
-Buku → Kategori
-Buku → Penerbit
-✅ Validasi input form
-🎨 Tampilan sederhana & user-friendly
-🛠️ Teknologi yang Digunakan
-Laravel 8
-PHP
-MySQL
-Blade Template Engine
+ Buku → Kategori
+ Buku → Penerbit
+ ✅ Validasi input form
+ 🎨 Tampilan sederhana & user-friendly
+ 
+ 🛠️ Teknologi yang Digunakan
+ Laravel 8
+ PHP
+ MySQL
+ Blade Template Engine
