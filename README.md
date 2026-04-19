@@ -12,13 +12,11 @@ Buku → Kategori
 Buku → Penerbit
 ✅ Validasi input form
 🎨 Tampilan sederhana & user-friendly
-
 🛠️ Teknologi yang Digunakan
 Laravel 8
 PHP
 MySQL
 Blade Template Engine
-
 🚀 Cara Menjalankan Project
 # Clone repository
 git clone https://github.com/malfarizihidayatullah01-code/tugas-web2.git
@@ -43,17 +41,21 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 Lanjut jalankan:
+
 php artisan migrate
 ▶️ Menjalankan Aplikasi
 php artisan serve
 
 Akses di browser:
+
 http://127.0.0.1:8000
 📂 Struktur Folder Penting
 app/
  ├── Models/
  ├── Http/Controllers/
+
 resources/views/
+
 routes/web.php
 
 database/migrations/
@@ -65,25 +67,29 @@ POST	/buku	Simpan data
 GET	/buku/{id}/edit	Form edit
 PUT	/buku/{id}	Update data
 DELETE	/buku/{id}	Hapus data
-
 🧠 Tujuan Project
+
 Project ini dibuat untuk:
+
 Memahami konsep CRUD di Laravel
 Belajar struktur MVC
 Mengelola relasi database
 Latihan membuat aplikasi web sederhana
-
 ⚠️ Troubleshooting
+
 Error: vendor/autoload.php tidak ditemukan
+
 composer install
+
 Error: Application key
+
 php artisan key:generate
+
 Error database
 
 Pastikan database sudah dibuat
 Cek konfigurasi .env
-
 👨‍💻 Author
-NAMA : Malfarizi Hidayatullah
-NIM  : 240180107
+
+Malfarizi Hidayatullah
 GitHub: https://github.com/malfarizihidayatullah01-code
