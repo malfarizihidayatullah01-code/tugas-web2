@@ -63,7 +63,7 @@ php artisan key:generate
 Edit file `.env`:
 
 ```
-DB_DATABASE=nama_database_kamu
+DB_DATABASE=aplikasi_crud
 DB_USERNAME=root
 DB_PASSWORD=
 ```
